@@ -1,2 +1,2 @@
 Haskell Curry
-Gvido Van Rossum
+Guido van Rossum
